@@ -6,7 +6,7 @@ Soy un apasionado por la tecnología, actualmente cursando la Tecnicatura en Pro
 
 *   Actualmente enfocado en dominar estructuras de datos y programación con objetos.
 *   Aprendiendo a fondo **Git, Python, SQL, HTML y CSS**.
-*   Mi próximo objetivo: dar el salto hacia la **Ciberseguridad** (explorando herramientas como Wireshark, fundamentos de redes e Informática Forense).
+*   Mi próximo objetivo: dar el salto hacia la **Ciberseguridad** (explorando redes con la herramienta Wireshark y realizando pericias informáticas).
 
 
 ### Stack Tecnológico
